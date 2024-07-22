@@ -1,6 +1,3 @@
-![Quote](https://velog.velcdn.com/images/ksa199653/post/e26530d5-381b-49b6-b82d-ab362ee1894f/image.png)
-
-
 # Hi there 👋
 
 I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stack applications and exploring new technologies.
@@ -29,9 +26,6 @@ I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stac
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-black?style=flat-square&logo=yarn)
-![Xshell](https://img.shields.io/badge/-Xshell-black?style=flat-square&logo=xshell)
-![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square&logo=algorithms)
-![RESTful API](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=restful-api)
 
 
 ## 📈 GitHub Stats
