@@ -25,11 +25,6 @@ I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stac
 <!-- BLOG-POST-LIST:END -->
 
 
-## 📂 Projects
-- [Project 1](https://github.com/isroil01/car-app-frontend): it is a web app for selling cars.
-- [Project 2](https://github.com/isroil01/car-app-backend):
-- [Project 3](https://github.com/isroil01/mern): it is mern stack project.
-
 ## 🌱 Currently Learning
 - GraphQL
 - TypeScript
@@ -47,4 +42,4 @@ I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stac
 - Learning new technologies
 - Building side projects
 
-![Quote](https://media.bloomingbit.io/prod/news/7545aa2d-7ad9-40d0-a8cd-87d2f96d3b9a.jpeg)
+![Quote](https://velog.velcdn.com/images/ksa199653/post/e26530d5-381b-49b6-b82d-ab362ee1894f/image.png)
