@@ -43,11 +43,12 @@ I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stac
 - Kubernetes
 
 ## 🧑‍💻 Work Experience
-- **[Sugarbricks]** - _Front end Developer_
-  - Developed and maintained full-stack web applications.
-  - Implemented RESTful APIs using Node.js and Express.
-  - Built interactive UIs with React and Redux.
-  - Managed databases with MongoDB.
+- **Sugarbrick** - _Front End Developer_
+  - Created and maintained the ongoing online hospital application, including admin and web app sections.
+  - Developed payment and subscription services.
+  - Built interactive UIs using React,Next.js,Svelte.js,Zustand, Redux and other tools.
+  - Implemented responsive designs with HTML5, CSS3, Styled component.
+  - Utilized JavaScript and TypeScript for application logic.
 
 ## 🤔 What I enjoy
 - Contributing to open source
