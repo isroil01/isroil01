@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm [Your Name], a passionate **MERN Stack Developer** from [Your Country]. I love building full-stack applications and exploring new technologies.
+I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stack applications and exploring new technologies.
 
 ## 📫 How to reach me:
 - [Email](mailto:isroiljonrustamov25@gmail.com)
@@ -26,9 +26,9 @@ I'm [Your Name], a passionate **MERN Stack Developer** from [Your Country]. I lo
 
 
 ## 📂 Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description of your project.
-- [Project 2](https://github.com/yourusername/project2): A brief description of your project.
-- [Project 3](https://github.com/yourusername/project3): A brief description of your project.
+- [Project 1](https://github.com/isroil01/car-app-frontend): it is a web app for selling cars.
+- [Project 2](https://github.com/isroil01/car-app-backend):
+- [Project 3](https://github.com/isroil01/mern): it is mern stack project.
 
 ## 🌱 Currently Learning
 - GraphQL
@@ -36,7 +36,7 @@ I'm [Your Name], a passionate **MERN Stack Developer** from [Your Country]. I lo
 - Kubernetes
 
 ## 🧑‍💻 Work Experience
-- **[Sugarbricks]** - _MERN Stack Developer_
+- **[Sugarbricks]** - _Front end Developer_
   - Developed and maintained full-stack web applications.
   - Implemented RESTful APIs using Node.js and Express.
   - Built interactive UIs with React and Redux.
@@ -47,4 +47,4 @@ I'm [Your Name], a passionate **MERN Stack Developer** from [Your Country]. I lo
 - Learning new technologies
 - Building side projects
 
-![Quote](https://yourimageurl.com/quote.png)
+![Quote](https://media.bloomingbit.io/prod/news/7545aa2d-7ad9-40d0-a8cd-87d2f96d3b9a.jpeg)
