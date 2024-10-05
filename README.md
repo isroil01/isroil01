@@ -23,13 +23,9 @@ I'm Isroiljon, a passionate **MERN Stack Developer**. I love building full-stack
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-black?style=flat-square&logo=yarn)
 
-## 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+## 📊 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isroil01&layout=compact&theme=radical)
 
 ## 📈 GitHub Stats
 ![Isroiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=isroil01&show_icons=true&theme=radical)
