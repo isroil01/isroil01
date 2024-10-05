@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stack applications and exploring new technologies.
+I'm Isroiljon, a passionate **MERN Stack Developer**. I love building full-stack applications and exploring new technologies.
 
 ## 📫 How to reach me:
 - [Email](mailto:isroiljonrustamov25@gmail.com)
@@ -20,18 +20,20 @@ I'm Isroiljon, a passionate **MERN Stack Developer** . I love building full-stac
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS S3](https://img.shields.io/badge/-AWS%20S3-black?style=flat-square&logo=amazon-aws)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-black?style=flat-square&logo=yarn)
 
+## 🖥️ Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 
 ## 📈 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=isroil01&show_icons=true&theme=radical)
+![Isroiljon's GitHub stats](https://github-readme-stats.vercel.app/api?username=isroil01&show_icons=true&theme=radical)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isroil01&theme=radical)](https://git.io/streak-stats)
-
 
 
 
