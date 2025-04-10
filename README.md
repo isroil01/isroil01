@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Isroiljon, a passionate **MERN Stack Developer**. I love building full-stack applications and exploring new technologies.
+I'm Isroiljon, a passionate **Software Engineer**. I love building new applications and exploring new technologies.
 
 ## 📫 How to reach me:
 - [Email](mailto:isroiljonrustamov25@gmail.com)
